@@ -1,6 +1,6 @@
 {
-  "name": "Men",
-  "description": "A vibrant theme with purple and black accents.",
+  "name": "Anime Dark Theme",
+  "description": "A dark themed anime style with white text and dark purple accents.",
   "version": "1.0",
   "authors": [
     {
@@ -10,133 +10,149 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#1E1E2F",
-      "#1E1E2F"
+      "#1a1a1a",
+      "#1a1a1a"
     ],
     "HEADER_SECONDARY": [
-      "#8A2BE2",
-      "#8A2BE2"
+      "#2e2e2e",
+      "#2e2e2e"
     ],
     "NORMAL_TEXT": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#ffffff",
+      "#ffffff"
     ],
     "TEXT_MUTED": [
-      "#B0B0B0",
-      "#B0B0B0"
+      "#cccccc",
+      "#cccccc"
     ],
     "INTERACTIVE_NORMAL": [
-      "#8A2BE2",
-      "#8A2BE2"
+      "#6a0dad",
+      "#6a0dad"
     ],
     "INTERACTIVE_HOVER": [
-      "#A77BFF",
-      "#A77BFF"
+      "#8a2be2",
+      "#8a2be2"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#6A0DAD",
-      "#6A0DAD"
+      "#5c3d95",
+      "#5c3d95"
     ],
     "INTERACTIVE_MUTED": [
-      "#5A5A5A",
-      "#5A5A5A"
+      "#4b0082",
+      "#4b0082"
     ],
     "BACKGROUND_PRIMARY": [
-      "#1E1E2F",
-      "#1E1E2F"
+      "#121212",
+      "#121212"
     ],
     "BACKGROUND_SECONDARY": [
-      "#2E2E3B",
-      "#2E2E3B"
+      "#1e1e1e",
+      "#1e1e1e"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#3E3E4B",
-      "#3E3E4B"
+      "#2c2c2c",
+      "#2c2c2c"
     ],
     "TERTIARY_BACKGROUND": [
-      "#4E4E5B",
-      "#4E4E5B"
+      "#333333",
+      "#333333"
     ],
     "BACKGROUND_ACCENT": [
-      "#8A2BE2",
-      "#8A2BE2"
+      "#4b0082",
+      "#4b0082"
     ],
     "BACKGROUND_FLOATING": [
-      "#2E2E3B",
-      "#2E2E3B"
+      "#1f1f1f",
+      "#1f1f1f"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#1E1E2F",
-      "#1E1E2F"
+      "#121212",
+      "#121212"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#2E2E3B",
-      "#2E2E3B"
+      "#1e1e1e",
+      "#1e1e1e"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#2E2E3B",
-      "#2E2E3B"
+      "#2e2e2e",
+      "#2e2e2e"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(106, 13, 173, 0.1)",
+      "#1a1a1a"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(138, 43, 226, 0.2)",
-      "hsla(0, 0%, 0%, 0.1)"
+      "rgba(106, 13, 173, 0.2)",
+      "hsla(0, 0%, 0%, 0.00)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(106, 13, 173, 0.3)",
+      "hsla(0, 0%, 0%, 0)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(138, 43, 226, 0.3)",
-      "hsla(0, 0%, 0%, 0.1)"
+      "rgba(106, 13, 173, 0.4)",
+      "hsla(0, 0%, 0%, 0)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
-      "hsla(0, 0%, 0%, 0.0)"
+      "hsla(106, 13%, 173%, 0.2)"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#8A2BE2",
-      "hsla(0, 0%, 0%, 0.5)"
+      "#6a0dad",
+      "hsla(106, 13%, 173%, 0.5)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#6a0dad",
+      "#6a0dad"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "rgba(0, 0, 0, 0.0)",
-      "#2E2E3B"
+      "#1a1a1a"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#2E2E3B",
-      "#2E2E3B"
+      "#1e1e1e",
+      "#1e1e1e"
     ],
     "CHANNELS_DEFAULT": [
-      "#1E1E2F",
-      "#1E1E2F"
+      "#1a1a1a",
+      "#1a1a1a"
     ],
     "TEXT_LINK": [
-      "#8A2BE2",
-      "#8A2BE2"
+      "#8a2be2",
+      "#8a2be2"
     ],
     "KEYBOARD": [
-      "#8A2BE2",
-      "#8A2BE2"
+      "#6a0dad",
+      "#6a0dad"
     ]
   },
   "colors": {
-    "PRIMARY_DARK": "#1E1E2F",
-    "PRIMARY_DARK_100": "#1E1E2F",
-    "PRIMARY_DARK_200": "#1E1E2F",
-    "PRIMARY_DARK_300": "#1E1E2F",
-    "PRIMARY_DARK_360": "#1E1E2F",
-    "PRIMARY_DARK_400": "#1E1E2F",
-    "PRIMARY_DARK_500": "#1E1E2F",
-    "PRIMARY_DARK_600": "#1E1E2F",
-    "PRIMARY_DARK_630": "#1E1E2F",
-    "PRIMARY_DARK_700": "#1E1E2F",
-    "PRIMARY_DARK_800": "#1E1E2F",
-    "BRAND_NEW": "#8A2BE2",
-    "STATUS_RED": "#FF4500",
-    "STATUS_GREEN_600": "#32CD32",
-    "YELLOW_STATE": "#FFD700"
+    "PRIMARY_DARK": "#1a1a1a",
+    "PRIMARY_DARK_100": "#1a1a1a",
+    "PRIMARY_DARK_200": "#1a1a1a",
+    "PRIMARY_DARK_300": "#1a1a1a",
+    "PRIMARY_DARK_360": "#1a1a1a",
+    "PRIMARY_DARK_400": "#1a1a1a",
+    "PRIMARY_DARK_500": "#1a1a1a",
+    "PRIMARY_DARK_600": "#1a1a1a",
+    "PRIMARY_DARK_630": "#1a1a1a",
+    "PRIMARY_DARK_700": "#1a1a1a",
+    "PRIMARY_DARK_800": "#1a1a1a",
+    "BRAND_NEW": "#6a0dad",
+    "STATUS_RED": "#ff0000",
+    "STATUS_GREEN_600": "#00ff00",
+    "YELLOW_STATE": "#ffff00"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#B0B0B0"
+    "CHAT_GREY": "#3b3b3b"
   },
   "background": {
     "blur": 0.5,
-    "url": "https://images.unsplash.com/photo-1689871176637-3421f13f4e6c?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "url": "https://wallpapercave.com/wp/wp9288774.jpg",
     "alpha": 1.0
   }
 }

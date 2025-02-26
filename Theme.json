@@ -151,7 +151,7 @@
     "CHAT_GREY": "#3b3b3b"
   },
   "background": {
-    "blur": 0.6,
+    "blur": 1.3,
     "url": "https://wallpapercave.com/wp/wp14880744.webp",
     "alpha": 1.0
   }

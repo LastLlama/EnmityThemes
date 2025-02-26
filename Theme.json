@@ -22,8 +22,8 @@
       "#ffffff"
     ],
     "TEXT_MUTED": [
-      "#cccccc",
-      "#cccccc"
+      "#ffffff",
+      "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
       "#6a0dad",
@@ -122,8 +122,8 @@
       "#1a1a1a"
     ],
     "TEXT_LINK": [
-      "#8a2be2",
-      "#8a2be2"
+      "#ffffff",
+      "#ffffff"
     ],
     "KEYBOARD": [
       "#6a0dad",
@@ -151,7 +151,7 @@
     "CHAT_GREY": "#3b3b3b"
   },
   "background": {
-    "blur": 0.5,
+    "blur": 0.1,
     "url": "https://wallpapercave.com/wp/wp9288774.jpg",
     "alpha": 1.0
   }
